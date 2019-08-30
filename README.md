@@ -4,7 +4,7 @@ Project intended to showcase the implementation of components for a vending mach
 - Strategy Pattern
 - Abstract Factory Pattern
 
-Read '''report.pdf''' for a detailed explanation of every component.
+Read ``report.pdf`` for a detailed explanation of every component.
 
 Project developed using the lastest public version of jdk
 
@@ -16,4 +16,4 @@ Executable has been tested on Windows 10 build 1809
 
 To run the jar executable file:
 
-'''java -jar vmsystem.jar'''
+``java -jar vmsystem.jar``
